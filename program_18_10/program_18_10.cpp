@@ -9,7 +9,7 @@ int main()
 void testF()
 {
     int a; 
-    int b;
+    
     int c;
 }
 
