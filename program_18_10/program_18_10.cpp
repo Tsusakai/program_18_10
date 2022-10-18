@@ -9,7 +9,7 @@ int main()
 void testF()
 {
     int a; 
-    
+    char str[255];
     int c;
 }
 
